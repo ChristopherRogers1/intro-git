@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Christopher.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Cheeseburgers.
 
-## 
-My hobbies are: PC games, swimming, basketball.
+## Hobbies
+My hobbies are: Competitive games, football, and poker.
 
-##
-My favorite artist/band is: Nirvana.
+## Music
+My favorite artist/band is: MF DOOM.
 
